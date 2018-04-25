@@ -5,3 +5,4 @@ languages:
   - jquery
 resources: 
   - 0
+parent_template: git@github.com:learn-co-curriculum/js-dom-and-events-advanced-selectors-readme.git

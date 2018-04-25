@@ -125,4 +125,4 @@ If you take a look at `js/selectors.js`, you'll notice we don't have a document 
 
 + [MDN jQuery Selectors](https://api.jquery.com/category/selectors/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/jquery-selectors-readme'>jQuery Selectors</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG jQuery Selectors</p>
